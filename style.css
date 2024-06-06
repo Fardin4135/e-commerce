@@ -1,0 +1,211 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.logo{
+    position: relative;
+}
+header{
+    height: 120px;
+}
+.links{
+    position: relative;
+    left: 450px;
+    bottom: 90px;
+    font-size: 24px;
+}
+
+div a{
+    margin: 20px;
+}
+.button{
+    width: 120px;
+    height: 58px;
+    border: 2px solid black;
+    border-radius: 50px;
+    background-color: white;
+    font-size: 20px;
+   position: relative;
+   left: 900px;
+   bottom:130px;
+   box-shadow: 2px 2px 5px black;
+   background-color:rgba(255, 0, 0, 0.516);
+   color: white;
+}
+.button:hover{
+    box-shadow: 2px 2px 10px black
+}
+#cart{
+    height: 35px;
+    width: 35px;
+    position: relative;
+    left:1110px;
+    bottom: 180px;
+}
+.front_view{
+    background-color: #f8c8dc4d;
+    width: 1440px;
+    height: 920px;
+}
+.hero{
+    position: relative;
+    left:800px;
+    top:50px;
+}
+h4{
+    font-size: 30px;
+    position: relative;
+    bottom: 600px;
+    left:80px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+h1{
+    font-size: 60px;
+    line-height: 80px;
+}
+.heading{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    height: 290px;
+    width: 420px;
+    position: relative;
+    bottom:560px;
+    left:80px;
+}
+.hand_icon{
+    width: 88px;
+    height: 88px;
+    position: relative;
+    bottom: 230px;
+    left:110px;
+}
+.collection{
+    height: 58px;
+    width: 280px;
+    font-size: 18px;
+    border: 2px solid black;
+    padding-top: 15px;
+    padding-left: 25px;
+    border-radius: 50px;
+    color: white;
+    background-color:rgba(255, 0, 0, 0.516);;
+    position: relative;
+    bottom: 550px;
+    left: 80px;
+    box-shadow: 2px 2px 5px black;
+}
+.collection:hover{
+    box-shadow: 2px 2px 10px black;
+}
+.arrow{
+    position: relative;
+    left: 5px;
+    top:2px;
+}
+.box{
+    text-align: center;
+    margin-top: 100px;
+}
+section h3{
+    margin:50px;
+    padding: 10px;
+    font-size: 40px;
+    text-decoration: underline;
+}
+.woman{
+    margin: 20px;
+    border: 2px solid whitesmoke;
+    box-shadow: 2px 2px 5px whitesmoke;
+}
+.woman:hover{
+    box-shadow: 2px 2px 10px black;
+}
+.second_view{
+    background-color: rgba(128, 128, 128, 0.356);
+    width: 1170px;
+    height: 620px;
+    margin-top:60px;
+    position: relative;
+    left: 120px;
+}
+.exclusive_image{
+    position: relative;
+    left:200px;
+}
+h2{
+    font-size: 50px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    line-height: 70px;
+    display: inline-block;
+    position: relative;
+    bottom: 300px;
+    left:90px;
+}
+.second_view button{
+       width: 180px;
+       height: 40px;
+       border-radius:50px;
+       box-shadow: 2px 2px 5px black;
+       background-color: rgba(255, 0, 0, 0.516);
+       color: white;
+       position: relative;
+       right: 250px;
+       bottom:190px;
+}
+.second_view button:hover{
+    box-shadow: 2px 2px 10px black;
+}
+.kids_collection{
+    margin-top: 80px;
+}
+.kids{
+    margin: 20px;
+    border: 2px solid whitesmoke;
+    box-shadow: 2px 2px 5px whitesmoke;
+}
+.kids:hover{
+    box-shadow: 2px 2px 10px black;
+}
+h5{
+    font-size: 30px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;   
+    padding: 10px;
+    font-size: 40px;
+    text-decoration: underline;
+    text-align: center;
+}
+.kids_section{
+    text-align: center;
+}
+footer{
+    height: 300px;
+    background-color: #f8c8dc4d;
+    margin-top: 40px;
+    text-align: center;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+h6{
+    font-size: 40px;
+    margin: 20px;
+}
+input{
+    margin-top: 50px;
+    width: 300px;
+    height: 50px;
+    padding-left: 30px;
+    border-radius: 50px;
+}
+footer button{
+    width: 130px;
+    height: 50px;
+    border-radius: 50px;
+    position: relative;
+    right: 70px;
+    color: white;
+    background-color: black;
+
+}
+footer button:hover{
+    box-shadow: 2px 2px 10px black;
+}
